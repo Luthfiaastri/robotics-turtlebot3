@@ -1,4 +1,3 @@
-```python
 import rclpy
 from rclpy.node import Node
 from std_srvs.srv import Trigger
@@ -43,4 +42,4 @@ def main():
 
 if __name__ == '__main__':
     main()
-```
+
