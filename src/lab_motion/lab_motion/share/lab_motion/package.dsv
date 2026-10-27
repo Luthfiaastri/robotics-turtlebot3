@@ -1,0 +1,9 @@
+source;share/lab_motion/hook/pythonpath.ps1
+source;share/lab_motion/hook/pythonpath.dsv
+source;share/lab_motion/hook/pythonpath.sh
+source;share/lab_motion/hook/ament_prefix_path.ps1
+source;share/lab_motion/hook/ament_prefix_path.dsv
+source;share/lab_motion/hook/ament_prefix_path.sh
+source;../../build/lab_motion/share/lab_motion/hook/pythonpath_develop.ps1
+source;../../build/lab_motion/share/lab_motion/hook/pythonpath_develop.dsv
+source;../../build/lab_motion/share/lab_motion/hook/pythonpath_develop.sh
